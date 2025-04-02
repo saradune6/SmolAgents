@@ -28,7 +28,7 @@ agent.run("How many seconds would it take for a leopard at full speed to run thr
 - Automated coding assistants
 - Data retrieval and intelligent processing
 
-  ![ALT TEXT](Screenshot 2025-04-02 113647.png)
+  ![ALT TEXT](Screenshot.png)
 
 
 ## Contributing
